@@ -20,7 +20,7 @@ Luego de completar con éxito este práctico podrás
 
 **Para completar este práctico** deberás realizar un *fork* de este repositorio,
 donde desarrollarás tu solución. La entrega será mediante un enlace a dicho
-*fork*. Desarrollarás una capa de abstracción de hardware (HAL) que exponiendo
+*fork*. Desarrollarás una capa de abstracción de hardware (HAL) exponiendo
 las funciones de pin de entrada/salida y temporizador. Implementarás los pines
 de entrada/salida mediante el periférico GPIO y el temporizador mediante el
 periférico SysTick del microcontrolador STM32F103C8T6. Y escribirás una
