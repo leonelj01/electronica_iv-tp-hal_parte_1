@@ -24,4 +24,15 @@ bool Pin_consultaEstado(HPin pin);
 
 void Pin_invierteEstado(HPin pin);
 
+
+// SysTick
+
+void Systick_init(void);
+
+uint32_t Sistick_obtMilisegundos(void);
+
+void Sistick_esperaMilisegundos(uint32_t tiempo);
+
+void SysTick_Handler(void);
+
 #endif

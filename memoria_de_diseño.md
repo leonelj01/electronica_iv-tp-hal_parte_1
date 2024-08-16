@@ -90,7 +90,7 @@ static const Pin descriptores[Pin_NUM_HANDLES]={
 };
 ```
 
-## 2.5 Modo de pin
+## 2.4 Modo de pin
 
 
 ## Programa principal
